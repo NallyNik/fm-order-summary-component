@@ -101,6 +101,7 @@ button:hover {
 @media (min-width: 800px) {
     body {
         background: url('../images/pattern-background-desktop.svg') no-repeat, hsl(225, 100%, 94%);
-        background-position: left -100px;
+        background-size: contain;
+        background-position: left -90px;
     }
 }
